@@ -26,6 +26,4 @@ The goal is to analyse how restoring blurred images affects detection performanc
 - src/ → helper functions
 - data/ → dataset
 - outputs/ → results
-- report/ → report files
-- presentation/ → slides
-- ai_logs/ → AI documentation
+
