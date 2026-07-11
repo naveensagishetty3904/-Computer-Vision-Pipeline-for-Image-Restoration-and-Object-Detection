@@ -1,4 +1,4 @@
-# COMP6001 Assignment 1: Image Restoration and Object Detection
+
 
 ## Overview
 This project builds a pipeline combining image deblurring and object detection.
